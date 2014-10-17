@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pnr:home|Door43 (pnr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pnr|d43-pnr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pnr/archive/master.zip|d43-pnr.zip]]
+
+**Recent Changes**
+{{changes>ns = pnr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pnr|Ethnologue data]]
+
